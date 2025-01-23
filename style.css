@@ -1,0 +1,39 @@
+body{
+    margin-top:250px;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+h1{
+margin-bottom: 25px;
+}
+
+p{
+
+}
+
+button{
+margin-top: 20px;
+}
+
+#age-input{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    border-color: rgb(95, 95, 95);
+    text-align: center;
+    width: 120px;
+}
+
+#check-button{
+background-color: black;
+color: white;
+font-size: 15px;
+border-radius: 10px;
+border-color: rgb(95, 95, 95);
+
+
+}
